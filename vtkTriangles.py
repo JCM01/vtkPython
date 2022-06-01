@@ -1,7 +1,7 @@
 import vtk
 
 #polydataSource = vtk.vtkSTLReader()
-#polydataSource.SetFileName("dicomSmooth16.stl")
+#polydataSource.SetFileName("SET HERE YOUR .STL")
 #polydataSource.Update()
 
 polydataSource = vtk.vtkSphereSource()
