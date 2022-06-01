@@ -9,7 +9,7 @@ This only an example using vtkSphereSource() converting a Sphere into Triangle f
 
 Quick example:
 
-![image](https://user-images.githubusercontent.com/57594425/171424944-12a663ad-e771-44e7-b37d-74db5d4de4aa.png)
+![image](https://user-images.githubusercontent.com/57594425/171425167-f04132aa-bacb-4122-bc6f-dc8d9d40ce21.png)
 
 ![image](https://user-images.githubusercontent.com/57594425/171412201-a7cc286c-f8f9-4af8-aa83-40ec76783a87.png)
 
